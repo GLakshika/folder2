@@ -1,0 +1,1 @@
+Stack is a linear data structure which is a collection of elements which are inserted or deleted according to the LIFO rule i.e. Last-In-First-Out. Take the example of a stack of disks which are placed one on top of another we keep on adding new disks to the top and when we need to take one, we take the topmost one very similar to how a stack works.
